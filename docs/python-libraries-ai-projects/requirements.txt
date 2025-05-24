@@ -1,0 +1,32 @@
+pydantic
+fastapi
+celery
+sqlmodel
+
+# AI Agents
+aisuite
+phidata
+pydantic-ai
+
+# Data processing
+pandas
+
+# Get structured outputs from LLMs
+instructor
+
+# Run local LLMs
+ollama
+
+# Llamaindex
+llama-index-core
+llama-index-llms-openai
+llama-index-llms-replicate
+llama-index-embeddings-huggingface
+
+# LangChain
+langchain
+langchain-openai
+
+
+
+
