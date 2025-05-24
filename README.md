@@ -9,10 +9,15 @@ If you would prefer to run everything on your own machine you will need a **Pyth
 You can pre-install the packages we will be using like this:
 
 ```bash
-mkdir building-with-llms
-cd building-with-llms
+git clone git@github.com:davoshack/building-with-llms-training.git
+cd building-with-llms-training
+
+# Optional if you want a virtual environment (no need to do this on Codespaces):
 python -m venv venv
-venv/bin/pip install -r requirements.txt
+source venv/bin/activate
+
+# Install the project requirements
+pip install -r requirements.txt
 ```
 
 ## Workshop description
