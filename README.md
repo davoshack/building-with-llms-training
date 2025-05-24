@@ -44,3 +44,8 @@ Topics we will cover include:
 - [Structured data extraction with pydantic](docs/structured_data_with_pydantic.py)
 - [Semantic search and RAG](docs/semantic-search-and-rag.md)
 - [Tool usage](docs/tools.md)
+- [Effective LLM Workflows](docs/effective-llm-workflows/README.md)
+
+
+## Presentation
+- [Slides](slides.pdf)
